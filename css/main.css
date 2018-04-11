@@ -3,7 +3,7 @@ body {
   font-family: helvetica;
   font-size: 2em;
   align-content: center;
-  background: #FFFDF5;
+  background: #FFF8F6;
 }
 
 header {
@@ -23,7 +23,7 @@ img {
 
 
 button {  
-    color: #FFFDF5;
+    color: #FFF8F6;
     font-family: helvetica;
     background-color: grey; /* Green */
     padding: 15px 32px;
