@@ -5,13 +5,6 @@ html, body {
   font-size: 2em;
 }
 
-#map {
-  margin: auto;
-  margin-top: 5%;
-  height: 60%;
-  width: 80%;
-}
-
 header {
   margin:auto;
   margin-top: 3%;
@@ -20,4 +13,11 @@ header {
 
 @media screen and (max-width: 900px) {
     header {font-size: .5em;}
+}
+
+#map {
+  margin: auto;
+  margin-top: 5%;
+  height: 60%;
+  width: 80%;
 }
